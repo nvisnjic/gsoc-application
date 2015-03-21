@@ -1,4 +1,4 @@
-Based on the source code by Jason Kridner for the BeagleBoard GSoC applicaiton. 
+Based on original code by Jason Kridner for the BeagleBoard GSoC applicaiton. 
 
 1. Install an ARM cross-compiler
 2. Edit Makefile to use your ARM cross-compiler of choice , if you got arm-linux-gnueabi-gcc, you're already set.
